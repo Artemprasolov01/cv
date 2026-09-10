@@ -18,9 +18,9 @@
 
 I am an 18-year-old first-year university student with a strong passion for programming, mathematics and English. I have been learning C++ for about 1 year and enjoy solving algorithmic problems. I am also interested in web development and plan to learn JavaScript.
 
-Although I don't have commercial experience yet, I have completed several educational projects that helped me understand the fundamentals of programming. I am self-disciplined and ready to learn new technologies. My goal is to become a professional software developer and work on meaningful projects.
+Although I don't have commercial experience yet, I have completed several educational projects that helped me understand the fundamentals of programming. I am self-disciplined and ready to learn new technologies. My goal is to become a professional software developer and manager and to work on meaningful projects.
 
-**Key strengths:** analytical thinking, attention to detail, persistence, ability to learn quickly.
+**Key strengths:** Analytical thinking, attention to detail, persistence, ability to learn quickly.
 
 ---
 
